@@ -3,7 +3,7 @@ Edwin Ngoche
 SCSU
 SE 221 : Introduction to Networking
 Professor: Abukmail, Ahmed
-Programming Assignment 1, HW3
+Programming Assignment 1
 
 How to run
 
